@@ -1,8 +1,8 @@
-Evan Kuck Personal Portfolio Website
+# Evan Kuck Personal Portfolio Website #
 
 =======
 
-![Peek 2022-01-24 11-06](https://evankuck.github.io/Evan-K-Portfolio/)
+* [Website](https://evankuck.github.io/Evan-K-Portfolio/)
 
 # Tools used #
 * HTML, CSS and JavaScript
