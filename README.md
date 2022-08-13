@@ -1,7 +1,5 @@
 # Evan Kuck Personal Portfolio Website #
 
-=======
-
 * [Website](https://evankuck.github.io/Evan-K-Portfolio/)
 
 # Tools used #
